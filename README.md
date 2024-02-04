@@ -9,6 +9,6 @@ As part of the Principles of Databases course, I completed a Music Database proj
 - **Advanced MySQL Implementation:** Implemented advanced MySQL features for improved data organization and relationships. This included creating complex queries to extract meaningful information from the database.
 
 ## Technical Skills:
--**Database Design:** Leveraged MySQL to optimize the structure and relationships within the music database. This involved translating the ER diagram into a functional database schema.
--**MySQL:** Demonstrated proficiency in MySQL through the creation and management of a complex music database.
+- **Database Design:** Leveraged MySQL to optimize the structure and relationships within the music database. This involved translating the ER diagram into a functional database schema.
+- **MySQL:** Demonstrated proficiency in MySQL through the creation and management of a complex music database.
 
